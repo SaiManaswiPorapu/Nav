@@ -1,0 +1,24 @@
+h1{
+    font-size: 20px;
+    border-radius: 30px;
+    display:inline;
+    margin-left: 50px;
+    margin-right: 50px;
+    float: right;
+    
+    padding: 8px;
+    margin: 10px;
+    }
+    
+    .logorsig {
+    color: black;
+    background-color: rgb(194, 91, 91);
+    }
+    .home{
+    color: black;
+    background-color: rgb(203, 224, 66);
+    }
+    .about{
+    color: black;
+    background-color: rgb(31, 116, 161);
+    }
